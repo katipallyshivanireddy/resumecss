@@ -1,22 +1,18 @@
-
-div{
-    background-color: lightskyblue;
-    color: white;
+#summary{
+    background-color: lightcoral;
+    color: beige;
 }
-ul{
-    background-color: lightgreen;
-    color:black;
-}
-h3{
-    color: bisque;
-}
-h1{
-    color: black;
-}
-h2{
-    color:black
-}
-ol{ 
+.projects{
     background-color: lightpink;
-    color: blanchedalmond;
+    color: black
+
+}
+#education{
+    background-color: blueviolet;
+    color:lightgrey ;
+}
+
+.skills{
+    background-color: lightskyblue;
+    color: azure;
 }
